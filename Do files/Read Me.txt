@@ -1,0 +1,17 @@
+The folder are:
+
+
+-final
+Contains the do files to generate the harmonize dataset between 2000 to 2016 that we used in the analysis
+
+-PA overview
+Contains the dofile and raw excel file used to generate figures for the PA overview. The figures cited 
+
+-Poverty estimates a
+Contains the dofiles to create the poverty estimates
+
+-Poverty estimates b
+Contains the dofiles to create the poverty estimates using the urban rural reclasiffication
+
+-Urban rural reclassification
+A dofile that creates the urban rural reclassification and the comparable strata across time (from CC to SMA)
